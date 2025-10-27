@@ -1,0 +1,25 @@
+{
+    "doctors": [
+        {
+            "id": 101,
+            "name": "Smith",
+            "specialization": "Cardiology",
+            "timings": "Mon, Wed, Fri 10AM-2PM"
+        },
+        {
+            "id": 102,
+            "name": "Jones",
+            "specialization": "Pediatrics",
+            "timings": "Tue, Thu 9AM-5PM"
+        },
+        {
+            "id": 103,
+            "name": "anu",
+            "specialization": "gyno",
+            "timings": "fri"
+        }
+    ],
+    "appointments": [],
+    "next_doctor_id": 104,
+    "next_appointment_id": 1
+}

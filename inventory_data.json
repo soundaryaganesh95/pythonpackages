@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1001,
+            "name": "Laptop Pro",
+            "price": 1200.0,
+            "quantity": 5
+        },
+        {
+            "id": 1002,
+            "name": "Wireless Mouse",
+            "price": 25.5,
+            "quantity": 50
+        },
+        {
+            "id": 1003,
+            "name": "books",
+            "price": 23.0,
+            "quantity": 1
+        }
+    ],
+    "total_earnings": 0.0,
+    "next_product_id": 1004
+}

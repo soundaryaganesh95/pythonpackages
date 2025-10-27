@@ -1,0 +1,3 @@
+Initial Balance: 500.00
+Deposit: +100.50
+Withdrawal: -50.00
